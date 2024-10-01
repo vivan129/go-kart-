@@ -1,0 +1,40 @@
+answer 1 ![alt text](Untitled.png)
+answer 2
+ACmotors - these are powered ny alternating current 
+DCmotors - which are powered by direct current 
+answer 3 firs the bones of the go kart that is the chessy is made and then we but the motor which is oplaced and is accompanied by the controller which makes the motor moves then comes the battery which powers these both electronics 
+answer 4 higher gear ratio means that more power is absorbed and more speed is evoleved where as if the gear ratio is low than the amps consumed by the motor wi,ll be less hence speed will be less 
+answer 5 li ion battery - 
+higher cycle life 
+less charging time 
+reactive with hazards and water 
+made out of a material
+
+
+lipo battery - 
+lower cycle life 
+more charging required 
+non reactive with water
+mad out of chemicals 
+
+answer 6 not in sylabus 
+answer 7             battery cells ----------> motor controller -----------> bldc motor 
+                    I
+                    I
+                    I
+             Dc to dc converter
+                    I
+                    I
+                    I
+             peripheral devices 
+
+ answer 8 it allows the battery to supply more power at a given time. This is important because it can support more high-power applications, like racing devices
+and it also allows more load to be put on
+
+answer 9 Step 1: Mount the Brake Discs
+Step 2: Install the Brake Calipers.
+Step 3: Attach Brake Pads
+Step 4: Connect Brake Cables/Rods
+Step 5: Install Brake Levers (if needed)
+Step 6: Test the Brake System
+Step 7: Final Checks 
